@@ -3,8 +3,6 @@
 
 ### <div align="center">I'm Daniel Němec, I study IT at [Střední Průmyslová Škola](https://github.com/SPSMB)</div>  
   
-
-- I can use HTML and CSS and I'm currently learning to use Java and JavaScript  
   
 
 - I'm an introvert and spend all my time in front of a computer playing games (I swear it's just to learn more about game design and I'm not addicted)  
